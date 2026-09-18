@@ -1,18 +1,11 @@
 {
     "id": "fractal-mosaic",
     "title": "Fractal Mosaic",
-    "description": "A recursive photomosaic viewer: an infinite, self-similar plane where every photo dissolves into a mosaic of other photos from your album, forever.",
-    "tags": [
-        "fractal",
-        "photomosaic",
-        "infinite-zoom",
-        "recursion",
-        "webgl",
-        "generative",
-        "photography"
-    ],
-    "category": "labs",
+    "pitch": "A fractal mosaic provides infinite-zoom based exploration of your album.",
+    "category": "lab",
     "href": "index.html",
     "readme": "README.md",
-    "order": 16
+    "order": 16,
+    "section": "featured",
+    "icon": "FM"
 }
